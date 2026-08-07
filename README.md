@@ -1,23 +1,28 @@
-# Bookmyshow---DBMS
-# BookMyShow Database Project
+# BookMyShow DBMS Project
 
-## Description
-A DBMS project based on the BookMyShow ticket booking system.
+## Overview
+This project implements a BookMyShow-style movie ticket booking database using SQL Server.
 
-## Tables
-- Users
-- Movies
-- Theaters
-- Shows
-- Bookings
-- Payments
+## Database Tables
+1. Users
+2. Movies
+3. Theaters
+4. Shows
+5. Bookings
+6. Payments
 
-## Features
-- Primary Keys
-- Not Null
-- Unique Constraints
-- Check Constraints
-- Sample Data
+## Constraints Used
+- PRIMARY KEY
+- FOREIGN KEY
+- NOT NULL
+- UNIQUE
+- CHECK
 
-## Database
-SQL Server
+## Sample Queries
+- Insert Records
+- View Records
+- Table Relationships
+
+## Technologies
+- SQL Server Management Studio (SSMS)
+- GitHub
